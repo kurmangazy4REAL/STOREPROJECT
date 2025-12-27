@@ -1,0 +1,34 @@
+[
+    {
+        "model": "storeProducts.storecategories",
+        "pk": 1,
+        "fields": {
+            "name": "Mice",
+            "description": ""
+        }
+    },
+    {
+        "model": "storeProducts.storecategories",
+        "pk": 2,
+        "fields": {
+            "name": "Keyboards",
+            "description": ""
+        }
+    },
+    {
+        "model": "storeProducts.storecategories",
+        "pk": 3,
+        "fields": {
+            "name": "Mousepad",
+            "description": ""
+        }
+    },
+    {
+        "model": "storeProducts.storecategories",
+        "pk": 4,
+        "fields": {
+            "name": "Headphones",
+            "description": ""
+        }
+    }
+]

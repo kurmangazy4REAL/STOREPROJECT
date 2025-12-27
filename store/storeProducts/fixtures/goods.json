@@ -1,0 +1,146 @@
+[
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 17,
+        "fields": {
+            "name": "Beast X Pro Magnesium Gaming Mouse",
+            "price": "300.00",
+            "description": "Offers exceptional precision and seamless tracking for an unmatched gaming experience.",
+            "quantity": 10,
+            "image": "https://www.wlmouse.com/cdn/shop/files/beastx.jpg?v=1755482362&width=2000",
+            "category": 1
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 18,
+        "fields": {
+            "name": "Wlmouse Beast X Max",
+            "price": "300.00",
+            "description": "The WLMOUSE Beast x MAX DRG gaming mouse is a unique combination of technology and quality.",
+            "quantity": 15,
+            "image": "https://www.wlmouse.com/cdn/shop/files/max_7ebbb588-8c29-4b2a-8b9e-902780ad0c13.jpg?v=1755482399&width=2000",
+            "category": 1
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 19,
+        "fields": {
+            "name": "YING Forged Carbon Fiber Gaming Mouse",
+            "price": "179.00",
+            "description": "Forged Carbon Fiber + ABS Plastic Bottom Shell, Ultra-lightweight design (59g) for fast movements and less fatigue during extended gaming sessions.",
+            "quantity": 10,
+            "image": "https://www.wlmouse.com/cdn/shop/files/black_08b4a5a6-b3b4-48b6-8d6f-155948cf46b8.png?v=1734595432&width=2000",
+            "category": 1
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 20,
+        "fields": {
+            "name": "WL QISHA 七殺 Mousepad",
+            "price": "33.00",
+            "description": "limFlex HR (Previously named Japanese Poron)",
+            "quantity": 20,
+            "image": "https://www.wlmouse.com/cdn/shop/files/sku1_6.png?v=1754544805&width=404",
+            "category": 3
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 21,
+        "fields": {
+            "name": "WL Purple gaming mouse pad",
+            "price": "40.00",
+            "description": "Smooth surface with slight resistance and a slight bias towards speed while maintaining control.",
+            "quantity": 8,
+            "image": "https://www.wlmouse.com/cdn/shop/files/420_1200.jpg?format=pjpg&v=1734012331&width=1200",
+            "category": 3
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 22,
+        "fields": {
+            "name": "WLMOUSE Jumi Gaming Mouse Pad",
+            "price": "35.00",
+            "description": "SlimFlex HR (Previously named Japanese Poron)",
+            "quantity": 18,
+            "image": "https://www.wlmouse.com/cdn/shop/files/1_d74bc33f-4da5-410e-8c83-ca8d28f53d97.jpg?v=1757644099&width=404",
+            "category": 3
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 23,
+        "fields": {
+            "name": "HUAN63 HE Magnesium Alloys Keyboard",
+            "price": "269.00",
+            "description": "TTC Nihil Transparent Black Dot / OMRON Opticals",
+            "quantity": 7,
+            "image": "https://www.wlmouse.com/cdn/shop/files/WHITE_88feba52-5b1d-4ad9-a63d-550507e702c0.jpg?format=pjpg&v=1761641658&width=2000",
+            "category": 2
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 24,
+        "fields": {
+            "name": "YING75 HE Forged Carbon Fiber Keyboard",
+            "price": "240.00",
+            "description": "Crafted from aerospace-grade forged carbon fiber with CNC machining, this keyboard delivers unmatched durability and stability.",
+            "quantity": 20,
+            "image": "https://www.wlmouse.com/cdn/shop/files/black_4356ed29-a67b-4f63-94f4-67f067a21003.jpg?format=pjpg&v=1747029498&width=1600",
+            "category": 2
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 25,
+        "fields": {
+            "name": "YING63 Forged Carbon Fiber Keyboard",
+            "price": "260.00",
+            "description": "Double-shot PBT injection side-printed dye sublimation.",
+            "quantity": 15,
+            "image": "https://www.wlmouse.com/cdn/shop/files/MO-1.jpg?format=pjpg&v=1734011742&width=1200",
+            "category": 2
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 26,
+        "fields": {
+            "name": "logitech G PRO X 2",
+            "price": "250.00",
+            "description": "LIGHTSPEED Wireless 7.1 Gaming Headset with Bluetooth",
+            "quantity": 20,
+            "image": "https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/pro-x-2-lightspeed/gallery/gallery-1-pro-x-2-lightspeed-gaming-headset-black.png?v=1",
+            "category": 4
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 27,
+        "fields": {
+            "name": "G735",
+            "price": "150.00",
+            "description": "LIGHTSPEED Wireless Gaming Headset with LIGHTSYNC RGB",
+            "quantity": 30,
+            "image": "https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/audio/g735-wireless-headset/gallery/2025/g735-3qtr-front-left-angle-gallery-1.png?v=1",
+            "category": 4
+        }
+    },
+    {
+        "model": "storeProducts.storeproducts",
+        "pk": 28,
+        "fields": {
+            "name": "Logitech G733",
+            "price": "100.00",
+            "description": "LIGHTSPEED Wireless Gaming Headset with LIGHTSYNC RGB",
+            "quantity": 25,
+            "image": "https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g733/gallery/g733-black-gallery-1.png?v=1",
+            "category": 4
+        }
+    }
+]
